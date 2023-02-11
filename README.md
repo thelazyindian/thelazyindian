@@ -4,13 +4,13 @@
 
 - 🏗️ Currently building [Orange Wallet](https://orangewallet.app/).
 - ⛓️ Exploring BlockChain.
-- 👾 Part time gamer on [Youtube](https://www.youtube.com/@thelazyindian).
+- 👾 Part time gamer.
 - ❤️‍🔥 Passionate developer.
 - 🧳 Love travelling.
 - 🏍️ Two wheels move the soul.
 
 
-## 🌐 Socials
+## 📫 Reach out to me :
 
 [![Twitter](https://img.shields.io/twitter/follow/the_lazy_indian?logo=Twitter&style=for-the-badge)](https://twitter.com/the_lazy_indian) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyabrata-sahoo-31b13313a/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thelazyindian) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@thelazyindian)
 
